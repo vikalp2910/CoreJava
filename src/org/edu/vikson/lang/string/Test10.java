@@ -1,5 +1,5 @@
 package org.edu.vikson.lang.string;
-
+//Immutable Class
 public final class Test10 {
 
 	 private int i;
